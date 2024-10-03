@@ -1,0 +1,2 @@
+date,language,start_time,end_time,segment_text,avg_logprob,compression_ratio,no_speech_prob
+2024-10-03 14:52:46,en,0.0,6.0," Hello, this is a new test.",-0.6583469130776145,0.8125,0.036860451102256775
